@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.information{
+    text-align: center;
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table, th, td {
+    border:1px solid rgb(15, 127, 144);
+}
+
+#leblanc-image{
+    width: 130px;
+    height: 142px;
+    border-radius: 10px;
+}
+
+#copyright{
+    font-size: x-small;
+    color:rgb(43, 68, 29);
+    top: 30%;
+}
+
+.end-button{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: wavy;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}.end-button:hover{
+    background-color: aqua;
+    color: black;
+}
